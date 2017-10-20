@@ -1,0 +1,23 @@
+div {
+margin: 10px;	
+background: #ff6161;
+
+border-radius:10px;
+padding: 8px ;
+list-style-type:none;
+width:250px;
+}
+span{
+	color:#ff6161;	
+}
+
+body{
+	background: linear-gradient(#ffce85,#30d5c8);
+	font-size:15px;
+    display: inline-block;
+    color: white;
+    cursor: pointer;
+    text-decoration: none;
+    text-transform: uppercase;
+    vertical-align: top;
+}
