@@ -16,11 +16,9 @@ border: 1px solid #333;
 }
 
 body{
-
-	background: linear-gradient(to right,#ffce85,#30d5c8);
-	
-
-
 	position: absolute;
 	left: 25%;
 }
+body{
+	background: linear-gradient(to right,#ffce85,#30d5c8);
+	}
