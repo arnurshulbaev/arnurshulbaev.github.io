@@ -11,13 +11,13 @@ function auss() {
   $("#aus").css("top","1px");
 	switch(n){
 		case 1: {
-			img.src = "img/black.png"; break;
+			img.src = "file:///C:/Documents/GitHub/Shulbaev.github.io/arnurshulbaev.github.io/JFD/img/black.png"; break;
 		}
 		case 2: {
-			img.src = "img/write.png"; break;
+			img.src = "file:///C:/Documents/GitHub/Shulbaev.github.io/arnurshulbaev.github.io/JFD/img/write.png"; break;
 		}
 		case 3: {
-			img.src = "img/wolf.png"; break;
+			img.src = "file:///C:/Documents/GitHub/Shulbaev.github.io/arnurshulbaev.github.io/JFD/img/wolf.png"; break;
 		}
 	}
 }
